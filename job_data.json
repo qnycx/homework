@@ -1,0 +1,10 @@
+[
+  {"job_id": "J1", "size": 20, "arrival_time": 1, "run_time": 3},
+  {"job_id": "J2", "size": 30, "arrival_time": 2, "run_time": 2},
+  {"job_id": "J3", "size": 25, "arrival_time": 3, "run_time": 4},
+  {"job_id": "J4", "size": 20, "arrival_time": 4, "run_time": 2},
+  {"job_id": "J5", "size": 35, "arrival_time": 5, "run_time": 3},
+  {"job_id": "J6", "size": 15, "arrival_time": 6, "run_time": 2},
+  {"job_id": "J7", "size": 40, "arrival_time": 7, "run_time": 4},
+  {"job_id": "J8", "size": 25, "arrival_time": 8, "run_time": 3}
+]
